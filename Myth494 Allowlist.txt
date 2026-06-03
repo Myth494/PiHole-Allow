@@ -3,4 +3,4 @@
 
 
 
-@@||assets-cf-prod.compass.education^
+assets-cf-prod.compass.education
